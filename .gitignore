@@ -12,3 +12,5 @@ world/maps/devmapa/devmapa_19_19.adt
 world/maps/devmapa/devmapa_19_20.adt
 world/maps/devmapa/devmapa_20_19.adt
 world/maps/devmapa/devmapa_20_20.adt
+*.png
+textures/minimap/md5translate.trs
