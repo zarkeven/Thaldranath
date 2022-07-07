@@ -1,7 +1,6 @@
 
 new project.noggitproj
 noggit_mmap_filters.json
-uid.ini
 DBFilesClient/map.dbc
 world/maps/devmapa/devmapa_20_18.adt
 world/maps/devmapa/devmapa_18_18.adt
@@ -13,7 +12,6 @@ world/maps/devmapa/devmapa_19_20.adt
 world/maps/devmapa/devmapa_20_19.adt
 world/maps/devmapa/devmapa_20_20.adt
 *.png
-textures/minimap/md5translate.trs
 world/maps/alphamaptestmap/alphamaptestmap_31_29.adt
 world/maps/alphamaptestmap/alphamaptestmap_31_31.adt
 world/maps/alphamaptestmap/alphamaptestmap_31_30.adt
