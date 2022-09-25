@@ -169,7 +169,6 @@ world/maps/108/108_27_27.adt
 world/maps/108/108_27_25.adt
 world/maps/108/108_27_24.adt
 world/maps/108/108_27_23.adt
-uid.ini
 world/maps/model_test/model_test.wdt
 world/maps/model_test/model_test_10_10.adt
 world/maps/model_test/model_test_10_11.adt
@@ -1346,3 +1345,4 @@ world/maps/108/108_25_31.adt
 world/maps/108/108_25_33.adt
 world/maps/108/108_29_31.adt
 world/maps/108/108_26_34.adt
+!textures/minimap/tdtest_combined_minimap.png
