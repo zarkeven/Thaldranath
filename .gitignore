@@ -1346,3 +1346,5 @@ world/maps/108/108_25_33.adt
 world/maps/108/108_29_31.adt
 world/maps/108/108_26_34.adt
 !textures/minimap/tdtest_combined_minimap.png
+*.noggitproj
+General modding.noggitproj
