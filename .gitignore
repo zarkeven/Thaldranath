@@ -11,7 +11,8 @@ world/maps/devmapa/devmapa_19_19.adt
 world/maps/devmapa/devmapa_19_20.adt
 world/maps/devmapa/devmapa_20_19.adt
 world/maps/devmapa/devmapa_20_20.adt
-*.png
+
+
 world/maps/alphamaptestmap/alphamaptestmap_31_29.adt
 world/maps/alphamaptestmap/alphamaptestmap_31_31.adt
 world/maps/alphamaptestmap/alphamaptestmap_31_30.adt
@@ -1670,3 +1671,11 @@ world/maps/texturetest/texturetest_31_19.adt
 world/maps/texturetest/texturetest_31_20.adt
 world/maps/texturetest/texturetest_31_21.adt
 world/maps/texturetest/texturetest_31_22.adt
+world/expansion06/doodads/warden/FX_blue.png
+world/expansion06/doodads/warden/FX_felgreen.png
+world/expansion06/doodads/warden/FX_green.png
+world/expansion06/doodads/warden/FX_orange.png
+world/expansion06/doodads/warden/FX_purple.png
+world/expansion06/doodads/warden/FX_red.png
+world/expansion06/doodads/warden/FX_white.png
+world/expansion06/doodads/warden/FX_yellow.png
