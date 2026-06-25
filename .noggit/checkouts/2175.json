@@ -1,17 +1,5 @@
 {
     "checkouts": [
-        {
-            "checked_out_at": "2026-06-25T01:50:27Z",
-            "user": "Zarkeven",
-            "x": 25,
-            "z": 9
-        },
-        {
-            "checked_out_at": "2026-06-25T01:50:27Z",
-            "user": "Zarkeven",
-            "x": 26,
-            "z": 9
-        }
     ],
     "map_id": 1220,
     "version": 1
