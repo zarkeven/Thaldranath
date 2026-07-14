@@ -1,0 +1,113 @@
+{
+    "adt_light_caps": [
+    ],
+    "lgt_mver": 18,
+    "map": "2175",
+    "point_lights": [
+        {
+            "attenuation_end": 7.199999809265137,
+            "attenuation_start": 0,
+            "color": [
+                1,
+                0.3607843220233917,
+                0
+            ],
+            "cookie_file_data_id": 0,
+            "flicker_intensity": 100,
+            "flicker_mode": 1,
+            "flicker_seed": 1,
+            "flicker_speed": 100,
+            "id": 2,
+            "intensity": 1,
+            "mlta_active": true,
+            "mlta_amplitude": 100,
+            "mlta_frequency": 100,
+            "mlta_function": 1,
+            "mpl3_flags": 0,
+            "mpl3_scale": 0.5,
+            "position_disk": [
+                173.61328125,
+                19.964736938476562,
+                314.111328125
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "tile_x": 37,
+            "tile_y": 31
+        },
+        {
+            "attenuation_end": 7.199999809265137,
+            "attenuation_start": 0,
+            "color": [
+                0.6431372761726379,
+                0,
+                1
+            ],
+            "cookie_file_data_id": 0,
+            "flicker_intensity": 14.399999618530273,
+            "flicker_mode": 1,
+            "flicker_seed": 1,
+            "flicker_speed": 9.899999618530273,
+            "id": 3,
+            "intensity": 1,
+            "mlta_active": true,
+            "mlta_amplitude": 14.399999618530273,
+            "mlta_frequency": 9.899999618530273,
+            "mlta_function": 1,
+            "mpl3_flags": 0,
+            "mpl3_scale": 0.5,
+            "position_disk": [
+                456.314453125,
+                7.30605411529541,
+                347.083984375
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "tile_x": 37,
+            "tile_y": 30
+        },
+        {
+            "attenuation_end": 14.399999618530273,
+            "attenuation_start": 0,
+            "color": [
+                1,
+                1,
+                1
+            ],
+            "cookie_file_data_id": 0,
+            "flicker_intensity": 35.599998474121094,
+            "flicker_mode": 1,
+            "flicker_seed": 1,
+            "flicker_speed": 13.100000381469727,
+            "id": 4,
+            "intensity": 1,
+            "mlta_active": true,
+            "mlta_amplitude": 35.599998474121094,
+            "mlta_frequency": 13.100000381469727,
+            "mlta_function": 1,
+            "mpl3_flags": 0,
+            "mpl3_scale": 0.5,
+            "position_disk": [
+                92.51953125,
+                8.703218460083008,
+                309.150390625
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "tile_x": 38,
+            "tile_y": 31
+        }
+    ],
+    "spot_lights": [
+    ],
+    "version": 1
+}
