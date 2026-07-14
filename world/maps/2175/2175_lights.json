@@ -73,7 +73,7 @@
             "tile_y": 30
         },
         {
-            "attenuation_end": 14.399999618530273,
+            "attenuation_end": 54,
             "attenuation_start": 0,
             "color": [
                 1,
@@ -81,10 +81,10 @@
                 1
             ],
             "cookie_file_data_id": 0,
-            "flicker_intensity": 35.599998474121094,
+            "flicker_intensity": 71.5999984741211,
             "flicker_mode": 1,
             "flicker_seed": 1,
-            "flicker_speed": 13.100000381469727,
+            "flicker_speed": 18,
             "id": 4,
             "intensity": 1,
             "mlta_active": true,
@@ -94,9 +94,9 @@
             "mpl3_flags": 0,
             "mpl3_scale": 0.5,
             "position_disk": [
-                80.8671875,
-                10.413492202758789,
-                304.060546875
+                74.7578125,
+                18.75484848022461,
+                311.56640625
             ],
             "rotation": [
                 0,
