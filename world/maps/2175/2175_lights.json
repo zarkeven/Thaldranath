@@ -73,7 +73,7 @@
             "tile_y": 30
         },
         {
-            "attenuation_end": 54,
+            "attenuation_end": 39.599998474121094,
             "attenuation_start": 0,
             "color": [
                 1,
@@ -81,10 +81,10 @@
                 1
             ],
             "cookie_file_data_id": 0,
-            "flicker_intensity": 71.5999984741211,
-            "flicker_mode": 1,
-            "flicker_seed": 1,
-            "flicker_speed": 18,
+            "flicker_intensity": 25,
+            "flicker_mode": 2,
+            "flicker_seed": 2718509130,
+            "flicker_speed": 100,
             "id": 4,
             "intensity": 1,
             "mlta_active": true,
