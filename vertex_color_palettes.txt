@@ -1,0 +1,9 @@
+# Vertex color palettes per map (saved by Noggit)
+MapName = 2175
+Colors = C2C2C2, 393939, FF0F00, 20900C, 0C5200, 908F0C, 0047FF, 535353
+
+MapName = NoggitTestMap
+Colors = F40000
+
+MapName = Azeroth
+Colors = FF3D3D, 2C2C2C, BCB8B2, 3D3D3D
